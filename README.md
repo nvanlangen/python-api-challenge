@@ -15,7 +15,7 @@ Using the data from Part 1, create a heat ,map based on the Humidity.
 
 Identify places with "ideal" weather and find a hotel in each of those cities.
 
-Plot the the city and allow the hotel displayed when the marker is clicked on top of the heat map.
+Plot the the city and allow the hotel to be displayed when the marker is clicked on top of the heat map.
 
 
 
